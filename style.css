@@ -328,6 +328,8 @@ table .label {
 
 .aligncenter, div.aligncenter {
     display:block;
+    margin-left: auto;
+    margin-right: auto;
     /* margin: 0 auto 20px; @obenland: Not sure about this */
 }
 
